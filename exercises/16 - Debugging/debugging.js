@@ -5,7 +5,7 @@ const people = [
 ];
 
 people.forEach((person, index) => {
-  console.log(person.name);
+  console.error(person.name);
 });
 
 // Console Methods
